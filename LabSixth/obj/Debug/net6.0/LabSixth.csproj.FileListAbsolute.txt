@@ -1,0 +1,14 @@
+D:\codes\work\first\LabSixth\LabSixth\bin\Debug\net6.0\LabSixth.exe
+D:\codes\work\first\LabSixth\LabSixth\bin\Debug\net6.0\LabSixth.deps.json
+D:\codes\work\first\LabSixth\LabSixth\bin\Debug\net6.0\LabSixth.runtimeconfig.json
+D:\codes\work\first\LabSixth\LabSixth\bin\Debug\net6.0\LabSixth.dll
+D:\codes\work\first\LabSixth\LabSixth\bin\Debug\net6.0\LabSixth.pdb
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\LabSixth.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\LabSixth.AssemblyInfoInputs.cache
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\LabSixth.AssemblyInfo.cs
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\LabSixth.csproj.CoreCompileInputs.cache
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\LabSixth.dll
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\refint\LabSixth.dll
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\LabSixth.pdb
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\LabSixth.genruntimeconfig.cache
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\ref\LabSixth.dll

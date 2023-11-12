@@ -1,0 +1,14 @@
+D:\codes\work\first\LabSixth\LabSixth\bin\Debug\net6.0\VehicleSim.exe
+D:\codes\work\first\LabSixth\LabSixth\bin\Debug\net6.0\VehicleSim.deps.json
+D:\codes\work\first\LabSixth\LabSixth\bin\Debug\net6.0\VehicleSim.runtimeconfig.json
+D:\codes\work\first\LabSixth\LabSixth\bin\Debug\net6.0\VehicleSim.dll
+D:\codes\work\first\LabSixth\LabSixth\bin\Debug\net6.0\VehicleSim.pdb
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\VehicleSim.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\VehicleSim.AssemblyInfoInputs.cache
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\VehicleSim.AssemblyInfo.cs
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\VehicleSim.csproj.CoreCompileInputs.cache
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\VehicleSim.dll
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\refint\VehicleSim.dll
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\VehicleSim.pdb
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\VehicleSim.genruntimeconfig.cache
+D:\codes\work\first\LabSixth\LabSixth\obj\Debug\net6.0\ref\VehicleSim.dll

@@ -1,0 +1,14 @@
+D:\codes\work\first\LabSixth\GraphicPrimitive\bin\Debug\net6.0\GraphicPrimitive.exe
+D:\codes\work\first\LabSixth\GraphicPrimitive\bin\Debug\net6.0\GraphicPrimitive.deps.json
+D:\codes\work\first\LabSixth\GraphicPrimitive\bin\Debug\net6.0\GraphicPrimitive.runtimeconfig.json
+D:\codes\work\first\LabSixth\GraphicPrimitive\bin\Debug\net6.0\GraphicPrimitive.dll
+D:\codes\work\first\LabSixth\GraphicPrimitive\bin\Debug\net6.0\GraphicPrimitive.pdb
+D:\codes\work\first\LabSixth\GraphicPrimitive\obj\Debug\net6.0\GraphicPrimitive.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\first\LabSixth\GraphicPrimitive\obj\Debug\net6.0\GraphicPrimitive.AssemblyInfoInputs.cache
+D:\codes\work\first\LabSixth\GraphicPrimitive\obj\Debug\net6.0\GraphicPrimitive.AssemblyInfo.cs
+D:\codes\work\first\LabSixth\GraphicPrimitive\obj\Debug\net6.0\GraphicPrimitive.csproj.CoreCompileInputs.cache
+D:\codes\work\first\LabSixth\GraphicPrimitive\obj\Debug\net6.0\GraphicPrimitive.dll
+D:\codes\work\first\LabSixth\GraphicPrimitive\obj\Debug\net6.0\refint\GraphicPrimitive.dll
+D:\codes\work\first\LabSixth\GraphicPrimitive\obj\Debug\net6.0\GraphicPrimitive.pdb
+D:\codes\work\first\LabSixth\GraphicPrimitive\obj\Debug\net6.0\GraphicPrimitive.genruntimeconfig.cache
+D:\codes\work\first\LabSixth\GraphicPrimitive\obj\Debug\net6.0\ref\GraphicPrimitive.dll
